@@ -16,9 +16,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.autosummary',
     "sphinx.ext.mathjax",
-    'recommonmark',
-    'sphinx_copybutton',
-    'sphinx_toggleprompt'
+    'recommonmark'
 ]
 
 templates_path = ['_templates']
