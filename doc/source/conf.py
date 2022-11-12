@@ -8,7 +8,7 @@ language = 'en'
 # -- General configuration ---------------------------------------------------
 import os
 import sys
-sys.path.insert(0, os.path.abspath(r'..\..\src'))
+sys.path.insert(0, os.path.abspath(r'D:\Git\test_Sphinx\src'))
 
 # 'sphinx_copybutton',
 # 'sphinx_toggleprompt'
